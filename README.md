@@ -27,3 +27,5 @@ name,id,home,shell
 cloud_user,1002,/home/cloud_user,/bin/bash
 kevin,1003,/home/kevin,/bin/zsh
 ```
+
+Project corresponding this [linux academy course](https://linuxacademy.com/cp/modules/view/id/311).
